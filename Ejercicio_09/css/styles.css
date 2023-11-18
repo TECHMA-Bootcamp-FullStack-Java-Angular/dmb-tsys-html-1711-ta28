@@ -1,0 +1,93 @@
+/* CSS VARIABLES */
+:root {
+    --green: #5b8a10;
+    --orange: #be8342;
+  }
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 960px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 1px;
+}
+
+h1 {
+
+    text-align: center;
+
+    & .half-1 {
+    color: var(--green);
+   }
+
+   & .half-2 {
+    color: var(--orange);
+   }
+
+}
+
+nav {
+    margin-left: -0.5rem;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+    padding:8px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-style: groove;
+    border-width: 2px;
+    font-weight: 600;
+
+    & a:link { 
+        text-decoration: none;
+    }
+
+    & a:visited { 
+        text-decoration: none; 
+    }
+
+    & a:hover { 
+        text-decoration: none;
+    }
+
+    & a:active {
+        text-decoration: none;
+    }
+}
+
+
+.menu-item {
+    background-color: #cbe783; 
+}
+
+.current-page {
+    background-color: #e5cdb2;
+}
+
+h2 {
+    color: var(--green);
+    font-size: 1.5rem;
+    border-bottom-style: groove;
+    border-bottom-color: #f1fedd;
+    border-width: 4px;
+}
+
+h3 {
+    padding-top: 1.5%;
+    color: var(--orange);
+}
+
+article {
+    margin-left: 10.5rem;
+    margin-right: 1rem;
+    border-style: groove;
+    padding: 2%;
+    margin-bottom: 2%;
+}

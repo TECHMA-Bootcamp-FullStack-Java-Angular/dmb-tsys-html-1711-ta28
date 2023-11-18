@@ -1,0 +1,49 @@
+/* CSS VARIABLES */
+:root {
+    --green: #5b8a10;
+    --orange: #be8342;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: auto;
+    margin-top: 10px;
+    padding: 1px;
+}
+
+h1 {
+
+    text-align: center;
+
+    & .half-1 {
+    color: var(--green);
+   }
+
+   & .half-2 {
+    color: var(--orange);
+   }
+
+}
+h2 {
+    color: var(--green);
+    border-bottom-style: groove;
+    border-bottom-color: #f1fedd;
+    border-width: 4px;
+}
+
+h3 {
+    padding-top: 1.5%;
+    color: var(--orange);
+}
+
+article {
+    margin-left: 8rem;
+    margin-right: 1rem;
+    border-style: groove;
+    padding: 2%;
+    margin-bottom: 2%;
+}
+
+nav {
+    float: left;
+}

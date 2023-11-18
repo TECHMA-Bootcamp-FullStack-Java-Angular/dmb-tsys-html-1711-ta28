@@ -1,0 +1,40 @@
+body {
+  background-color: #fff9ef;
+  max-width: 500px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 1%;
+}
+
+h1 {
+  background-color: #ffdb8f;
+  color: #3d3c3c;
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 2em;
+  font-style: italic;
+  font-weight: 700;
+  color: #6c9bbd;
+}
+
+.specifications {
+  color: #92b2c6;
+  font-style: italic;
+  font-weight: 600;
+  font-size: large;
+}
+
+h4 {
+  color: #758499;
+  font-size: 1.2em;
+}
+
+ul {
+  font-size: large;
+
+  & li {
+    list-style-type: none;
+  }
+}
+

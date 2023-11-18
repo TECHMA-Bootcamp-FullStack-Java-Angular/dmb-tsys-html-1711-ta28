@@ -1,0 +1,36 @@
+h1 {
+    background-color: #ffdb8f;
+    color: #3d3c3c;
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+    color: #6c9bbd;
+}
+
+h4 {
+    color: #758499;
+    font-size: 1.5em;
+}
+
+ul {
+    font-size: large;
+}
+
+li {
+    padding-bottom: 2%;
+}
+
+body {
+    background-color: #fff9ef;
+    max-width: 500px;
+    font-family: monospace;
+    padding-left: 0.5%;
+}
+
+.minititles {
+    color: #92b2c6;
+    font-style: italic;
+    font-weight: bold;
+}

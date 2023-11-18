@@ -1,0 +1,20 @@
+body {
+    background-color: #dae8f5ea;
+    max-width: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 0.3%;
+    padding-left: 1%;
+}
+
+h1 , h2 {
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Lobster', sans-serif;
+}
+
+
+
+li {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
