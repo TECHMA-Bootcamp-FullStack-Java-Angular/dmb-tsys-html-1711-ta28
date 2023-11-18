@@ -13,7 +13,7 @@ export const lessons = [
         description: `./assets/ej1.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_01',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_01/index.html',
+        urlPG: '../Ejercicio_01/ejercicio1.html',
        // 
        // https://<user>.github.io/<repository>/about/contact-us.html.
 
