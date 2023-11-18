@@ -29,7 +29,7 @@ export const lessons = [
         description: ``,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_03',
-        urlPG: '../../Ejercicio_03/index.html',
+        urlPG: '../../Ejercicio_03/platosemana.html',
       },
       {
         numExercise: 4,
@@ -37,7 +37,7 @@ export const lessons = [
         description: ``,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_04',
-        urlPG: '../../Ejercicio_04/index.html',
+        urlPG: '../../Ejercicio_04/platosemana.html',
       },     
       {
         numExercise: 5,
@@ -45,7 +45,7 @@ export const lessons = [
         description: ``,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_05',
-        urlPG: '../../Ejercicio_05/index.html',
+        urlPG: '../../Ejercicio_05/postresemana.html',
       },
       {
         numExercise: 6,
@@ -53,7 +53,7 @@ export const lessons = [
         description: ``,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_06',
-        urlPG: '../../Ejercicio_06/index.html',
+        urlPG: '../../Ejercicio_06/paquenatural/index.html',
       },
       {
         numExercise: 7,
