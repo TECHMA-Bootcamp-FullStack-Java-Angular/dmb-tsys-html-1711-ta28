@@ -13,7 +13,10 @@ export const lessons = [
         description: `./assets/ej1.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_01',
-        urlPG: '../../Ejercicio_01/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_01/index.html',
+       // 
+       // https://<user>.github.io/<repository>/about/contact-us.html.
+
       },
       {
         numExercise: 2,
@@ -21,7 +24,7 @@ export const lessons = [
         description: `./assets/ej2.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_02',
-        urlPG: '../../Ejercicio_02/index.html',
+        urlPG: 'http://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_02/index.html',
       },
       {
         numExercise: 3,
