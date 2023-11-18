@@ -14,8 +14,7 @@ export const lessons = [
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_01',
         urlPG: '../Ejercicio_01/ejercicio1.html',
-       // 
-       // https://<user>.github.io/<repository>/about/contact-us.html.
+     
 
       },
       {
