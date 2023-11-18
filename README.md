@@ -22,16 +22,7 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 - Open the repository with your IDE
 
 
-[Ver ejercicio 1](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/blob/main/Ejercicio_01/index.html)  
-[Ver ejercicio 2](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/blob/main/Ejercicio_02/index.html)  
-[Ver ejercicio 3](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/blob/main/Ejercicio_03/platosemana.html)  
-[Ver ejercicio 4](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/blob/main/Ejercicio_04/platosemana.html)  
-[Ver ejercicio 5](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/blob/main/Ejercicio_05/postresemana.html)  
-[Ver ejercicio 6](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/blob/main/Ejercicio_06/paquenatural/index.html)  
-[Ver ejercicio 7](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/blob/main/Ejercicio_07/index.html)  
-[Ver ejercicio 8](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/blob/main/Ejercicio_08/index.html)  
-[Ver ejercicio 9](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/blob/main/Ejercicio_09/index.html)  
-[Ver ejercicio 10](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/blob/main/Ejercicio_10/index.html)  
+[Ver ejercicio ]()  
 
 
 
