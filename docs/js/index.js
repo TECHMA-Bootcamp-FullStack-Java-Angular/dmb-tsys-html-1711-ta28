@@ -8,6 +8,9 @@ getLessons(0)
 // Crea una función para devolver el objeto de ejercicio para el índice de ejercicio dado
 const getExercise = (exerciseIndex) => getLessons(0).exercise[exerciseIndex];
 
+
+let imagen = document.getElementById("description")
+
 // Crea una función para asignar los valores del ejercicio dado a los elementos DOM
 function assignExerciseValues(exerciseIndex) {
   const exercise = getExercise(exerciseIndex);
@@ -17,7 +20,8 @@ function assignExerciseValues(exerciseIndex) {
   urlPG.href = exercise.urlPG;
   urlCode.href = exercise.urlCode;
   lessonsUnit.textContent = `Ejercicio nº ${exercise.numExercise}`;
-  description.innerHTML = exercise.description;
+  imagen.src = exercise.description;
+  console.log(document.src);
   day.textContent = `My progress: Dia ${getLessons(0).day} de 85`;
   issue.textContent = getLessons(0).issue;
   msg.innerHTML = getLessons(0).msg;
