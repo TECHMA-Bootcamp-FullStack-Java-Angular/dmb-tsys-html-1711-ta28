@@ -9,11 +9,10 @@ export const lessons = [
     exercise: [
       {
         numExercise: 1,
-        title: '',
         description: `./assets/ej1.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_01',
-        urlPG: '../Ejercicio_01/ejercicio1.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_01/index.html',
      
 
       },
@@ -23,7 +22,7 @@ export const lessons = [
         description: `./assets/ej2.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_02',
-        urlPG: '../Ejercicio_02/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_02/index.html',
       },
       {
         numExercise: 3,
@@ -31,7 +30,7 @@ export const lessons = [
         description: `./assets/ej3.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_03',
-        urlPG: '../Ejercicio_03/platosemana.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_03/platosemana.html',
       },
       {
         numExercise: 4,
@@ -39,7 +38,7 @@ export const lessons = [
         description: `./assets/ej4.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_04',
-        urlPG: '../Ejercicio_04/platosemana.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_04/platosemana.html',
       },     
       {
         numExercise: 5,
@@ -47,7 +46,7 @@ export const lessons = [
         description: `./assets/ej5.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_05',
-        urlPG: '../Ejercicio_05/postresemana.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_05/postresemana.html',
       },
       {
         numExercise: 6,
@@ -55,7 +54,7 @@ export const lessons = [
         description: `./assets/ej6.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_06',
-        urlPG: '../Ejercicio_06/paquenatural/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_06/paquenatural/index.html',
       },
       {
         numExercise: 7,
@@ -63,7 +62,7 @@ export const lessons = [
         description: `./assets/ej7.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_07',
-        urlPG: '../Ejercicio_07/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_07/index.html',
       },
       {
         numExercise: 8,
@@ -71,7 +70,7 @@ export const lessons = [
         description: `./assets/ej8.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_08',
-        urlPG: '../Ejercicio_08/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_08/index.html',
       },
       {
         numExercise: 9,
@@ -87,7 +86,7 @@ export const lessons = [
         description: `./assets/ej10.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_10',
-        urlPG: '../Ejercicio_10/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/Ejercicio_10/index.html',
       },
     ],
   },
