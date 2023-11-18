@@ -61,7 +61,7 @@ export const lessons = [
         description: `./assets/ej7.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1711-ta28/tree/main/Ejercicio_07',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/../../dmb-tsys-html-1711-ta28/Ejercicio_07/index.html',
+        urlPG: '../../Ejercicio_07/index.html',
       },
       {
         numExercise: 8,
