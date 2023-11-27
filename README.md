@@ -6,7 +6,9 @@
 
 # T28 – HTML_CSS
 
-Este repositorio contiene las tareas del Bootcamp 👨‍💻
+This repository contains the Bootcamp tasks 👨‍💻
+
+[Click here to see the exercises ](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/)  
 
 ### Rules of use 🚀
 
@@ -22,4 +24,4 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 - Open the repository with your IDE
 
 
-[Ver ejercicio ](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1711-ta28/)  
+
